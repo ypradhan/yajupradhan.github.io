@@ -1,2 +1,1 @@
-yajupradhan.github.io
-=====================
+Personal Website
