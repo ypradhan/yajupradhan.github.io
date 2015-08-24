@@ -20,7 +20,9 @@ Hello there. There are more than dozens of tools that I have been looking into t
 
 The first and the easiest one to start off with is the IDE itself. It is pretty basic and anyone with knack for working with web application can learn it in hours, the tool that is. But, today I will be talking about selenium webdriver and a tools I have looked into. Robotframework is an acceptance test framework. It has the easy of the IDE for any non technical user, who can start off quickly. It is written in python and is a simple keyowork based frameowork with an IDE that supports help for each keywork they supports. There is even a tool called [FireRobot](https://github.com/joao-carloto/FireRobot) that make creating the test scripts as easy as Selenium IDE.
 
-Example code: 
+Example code:
+ {% highlight robotframework}
+
 *** Settings ***
 Documentation  Generic Selenium2Library resources keywords
 Library        Selenium2Library
